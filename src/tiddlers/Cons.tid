@@ -1,0 +1,10 @@
+created: 20140424131929347
+modified: 20140424140948794
+title: Cons
+type: text/vnd.tiddlywiki
+
+* CommunitySupport is less than optimal
+* The [[seperation|ProxyObjects]] between native and JavaScript objects is confusing
+* A good protion of the API requires boilerplate code to function cross-platform
+* Quirks
+* [[Documentation|http://docs.appcelerator.com/titanium/latest/]] can be confusing and/or inaccurate at times

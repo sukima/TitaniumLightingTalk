@@ -1,0 +1,8 @@
+created: 20140424152913772
+modified: 20140424153146314
+title: UnitTesting
+type: text/vnd.tiddlywiki
+
+Currently there are two methods of testing. One on the device and the other on the command line.
+
+Since Titanium uses [[CommonJS|http://www.commonjs.org/]] module format you can use normal Node.js based testing frameworks to unit test your titanium code base. This is done using the [[mockti|https://github.com/rf/mockti]] library to mock out the Titanium API.

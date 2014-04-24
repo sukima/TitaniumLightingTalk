@@ -1,0 +1,17 @@
+created: 20140424133020539
+modified: 20140424153202467
+title: Libraries
+type: text/vnd.tiddlywiki
+
+I had great succeess using the following libraries in <<titanium>>:
+
+* [[Q|https://github.com/kriskowal/q]]
+* [[Bacon.js|https://github.com/baconjs/bacon.js]]
+* [[Underscore|http://underscorejs.org/]]
+* [[Backbone|http://backbonejs.org/]]
+* UnitTesting
+** [[Mocha|http://visionmedia.github.io/mocha/]]
+** [[Chai|http://chaijs.com/]]
+** [[Sinon|http://sinonjs.org/]]
+** [[Jasmine|http://jasmine.github.io/]]
+* And more...

@@ -1,0 +1,12 @@
+created: 20140424151927818
+modified: 20140424152109667
+title: ReusableCodebase
+type: text/vnd.tiddlywiki
+
+Most of the code can be reused. Business logic, Network API's, data processing, etc.
+
+Most interactive portions of views can be abstracted to your own controller logic that can be shared between platforms.
+
+Usually only the platform specific user interface code needs to be seperate for each platform.
+
+{{titanium.svg}}

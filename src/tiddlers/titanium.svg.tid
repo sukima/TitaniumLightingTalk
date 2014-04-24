@@ -1,0 +1,103 @@
+created: 20140424151817860
+modified: 20140424151817860
+title: titanium.svg
+type: image/svg+xml
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="759.99994"
+   height="582.85712"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-11.428571,-9.5050575)"
+     id="layer1">
+    <path
+       d="m 602.85712,315.21933 a 291.42856,291.42856 0 1 1 -582.85712,0 291.42856,291.42856 0 1 1 582.85712,0 z"
+       transform="translate(-8.5714286,-14.285714)"
+       id="path2985"
+       style="fill:#00ff00" />
+    <path
+       d="m 602.85712,315.21933 a 291.42856,291.42856 0 1 1 -582.85712,0 291.42856,291.42856 0 1 1 582.85712,0 z"
+       transform="translate(168.57142,-14.285714)"
+       id="path2987"
+       style="fill:#0000ff" />
+    <path
+       d="m 391.4375,23.21875 c -117.64301,37.48799 -202.875,147.64977 -202.875,277.71875 0,130.06805 85.2333,240.19874 202.875,277.6875 117.63756,-37.49121 202.84375,-147.6224 202.84375,-277.6875 0,-130.06605 -85.20485,-240.228328 -202.84375,-277.71875 z"
+       id="path3022"
+       style="fill:#ffff00" />
+    <text
+       x="377.41742"
+       y="272.21817"
+       id="text3135"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="377.41742"
+         y="272.21817"
+         id="tspan3137"><tspan
+           x="377.41742"
+           y="272.21817"
+           id="tspan3139">Business Logic</tspan><tspan
+           x="671.16742"
+           y="272.21817"
+           dx="0"
+           id="tspan3141" /></tspan><tspan
+         x="377.41742"
+         y="322.21817"
+         id="tspan3143"><tspan
+           x="524.29242"
+           y="322.21817"
+           id="tspan3145" /></tspan><tspan
+         x="444.25336"
+         y="372.21817"
+         id="tspan3147"><tspan
+           x="437.88617"
+           y="372.21817"
+           id="tspan3149">Libraries         </tspan></tspan></text>
+    <text
+       x="25.714287"
+       y="320.81641"
+       id="text3151"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="25.714287"
+         y="320.81641"
+         id="tspan3153"><tspan
+           x="25.714287"
+           y="320.81641"
+           id="tspan3155">Android</tspan></tspan></text>
+    <text
+       x="625.70538"
+       y="317.9325"
+       id="text3129"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"><tspan
+         x="625.70538"
+         y="317.9325"
+         id="tspan3131"><tspan
+           x="625.70538"
+           y="317.9325"
+           id="tspan3133">iOS</tspan></tspan></text>
+  </g>
+</svg>

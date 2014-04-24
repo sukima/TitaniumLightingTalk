@@ -1,0 +1,8 @@
+created: 20140424152836149
+modified: 20140424152854673
+title: ProxyObjects
+type: text/vnd.tiddlywiki
+
+<<<
+On platforms that use native code (Android, iOS, and BlackBerry), the Proxy type represents a JavaScript wrapper or proxy around a native object. Setting or getting a property on a proxy object results in a method invokation on the native object. Likewise, calling a method on the proxy object results in a method invokation on the native object.
+<<< http://docs.appcelerator.com/titanium/latest/#!/api/Titanium.Proxy

@@ -1,0 +1,16 @@
+created: 20140424131201190
+modified: 20140424134118755
+title: Titanium
+type: text/vnd.tiddlywiki
+
+{{TeaserQuote}}
+
+<<titanium>> is a multi-platform mobile appication framework. It is designed to build mobile application for several mobile platforms including [[iOS]] and [[Android]]. ''Writen in JavaScript.''
+
+!! Pros
+
+{{Pros}}
+
+!! Cons
+
+{{Cons}}

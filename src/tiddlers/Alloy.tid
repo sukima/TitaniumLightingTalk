@@ -1,0 +1,20 @@
+created: 20140424153232523
+modified: 20140424153830245
+title: Alloy
+type: text/vnd.tiddlywiki
+
+Alloy is an MVC precompiler for Titanium. I bundles the three files into one JavaScript //controller// module that can be compiled as usual. It includes [[Backbone|http://backbonejs.org/]] and [[Underscore|http://underscorejs.org/]].
+
+!! Model
+
+A specialized JavaScript module that either [[extends from Backbone|http://backbonejs.org/#Model]] or is just a custom JavaScript object.
+
+!! View
+
+The User Interface is defined by an XML document that provides hierarchy and properties such as class names and ID
+
+The style and property values of the User Interface is provided by a //CSS like// file.
+
+!! Controller
+
+The Business logic of your code which will manipulate / react to / and manage the user interface and models

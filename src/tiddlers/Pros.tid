@@ -1,0 +1,15 @@
+created: 20140424131922699
+modified: 20140424153953521
+title: Pros
+type: text/vnd.tiddlywiki
+
+* JavaScript
+** Low barrier to entry
+** Can leverage most [[JavaScript Libraries|Libraries]]
+** Use of JavaScript transpilers (CoffeeScript, etc.)
+* Easy to run UnitTesting
+* ReusableCodebase
+* Built in //Model, View, Controller// abstraction through [[Alloy]]
+* Good Command Line tool
+* Support for an IDE (Titanium Studio)
+* Can be extended with native modules

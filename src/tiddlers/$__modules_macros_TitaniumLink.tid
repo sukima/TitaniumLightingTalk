@@ -1,0 +1,11 @@
+created: 20140424133215484
+modified: 20140424134105518
+module-type: macro
+title: $:/modules/macros/TitaniumLink
+type: application/javascript
+
+exports.name = 'titanium';
+exports.params = [{name: 'title'}];
+exports.run = function(title) {
+  return '[[' + (title || 'Titanium') + '|http://www.appcelerator.com/developers/]]';
+};
