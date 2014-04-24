@@ -1,0 +1,8 @@
+created: 20140424130701447
+modified: 20140424130701447
+title: $:/ControlPanel
+type: text/vnd.tiddlywiki
+
+<div class="tw-control-panel">
+<<tabs "[all[shadows+tiddlers]tag[$:/tags/ControlPanel]!has[draft.of]]" "$:/core/ui/ControlPanel/Basics">>
+</div>

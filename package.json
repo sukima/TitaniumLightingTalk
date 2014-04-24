@@ -1,0 +1,11 @@
+{
+  "name": "TitaniumLightingTalk",
+  "version": "0.0.1",
+  "description": "Speach notes on a Appcelerator's Titanium lightning talk",
+  "author": "Devin Weaver (@sukima) <suki@tritarget.org>",
+  "dependencies": {
+    "tiddlywiki": "~5.0.10-beta",
+    "gulp-util": "~2.2.14",
+    "gulp": "~3.6.2"
+  }
+}
